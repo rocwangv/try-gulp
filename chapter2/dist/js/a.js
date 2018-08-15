@@ -1,0 +1,1 @@
+function demo(n){alert("--------\r\n"+n+"\r\n--------")}function test(n){console.log(n)}demo("Hi"),test("bbbasdasd"),va();
