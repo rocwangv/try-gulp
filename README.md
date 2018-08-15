@@ -2,16 +2,16 @@
 
 ## 常用的gulp工具包
 
-* gulp-uglify  压缩js代码
-* gulp-minify-css  压缩css代码
-* gulp-imagemin  压缩图片
-* gulp-less  压缩编译less代码
-* gulp-ruby-sass  压缩编译sass代码
-* pump  用来替代gulp.pipe()的一个模块，可以快速定位代码的错误位置
-* gulp-watch-path  自动监听模块
-* gulp-sourcemaps  生成sourcemap文件，方便开发环境的调试
-* gulp-autoprefixer  自动添加css前缀，如：-webkit-、-mos-等
-* gulp-util  输出带时间和颜色
+* `gulp-uglify`  压缩js代码
+* `gulp-minify-css`  压缩css代码
+* `gulp-imagemin`  压缩图片
+* `gulp-less`  压缩编译less代码
+* `gulp-ruby-sass`  压缩编译sass代码
+* `pump`  用来替代gulp.pipe()的一个模块，可以快速定位代码的错误位置
+* `gulp-watch-path`  自动监听模块
+* `gulp-sourcemaps`  生成sourcemap文件，方便开发环境的调试
+* `gulp-autoprefixer`  自动添加css前缀，如：-webkit-、-mos-等
+* `gulp-util`  输出带时间和颜色
   
 
 ## gulp.task
